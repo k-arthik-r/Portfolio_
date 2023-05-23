@@ -40,10 +40,10 @@ const Contact = () => {
 
     emailjs
       .sendForm(
-        "service_jedlzpb",
-        "template_vpmffav",
+        "YOUR_EMAILJS_SERVICE_ID",
+        "YOUR_EMAILJS_TEMPLATE_ID",
         formRef.current,
-        "YOUR_EMAILJS_USER_ID"
+        "YOUR_EMAILJS_USER_ID (Public Key)"
       )
       .then(
         () => {
