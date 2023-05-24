@@ -138,9 +138,9 @@ To deploy this project run
 
 -------------------------------------
 ## Hosting
-Options:
-  <br /> <a><img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7"></a>  <br />
-  <a><img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"></a> <br /> 
+Usables:
+  <br /><br /> <a><img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7"></a> &nbsp;
+  <a><img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"></a> &nbsp;
   <a><img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white"></a> 
 
 The Current Project is Built and deployed Using Github Pages on live: <br />
