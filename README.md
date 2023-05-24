@@ -127,6 +127,25 @@ Can also use
  ```
 -------------------------------------
 
+
+## Deployment
+
+To deploy this project run
+
+```bash
+  npm run deploy
+```
+
+-------------------------------------
+## Hosting
+Options:
+  <br /> <a><img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7"></a>  <br />
+  <a><img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"></a> <br /> 
+  <a><img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white"></a> 
+
+The Current Project is Built and deployed Using Github Pages on live: <br />
+  <br /> <a><img src="https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white"></a>
+
 ## Features
 - Usage of 3D Models
 - Usage of Framer Motions
@@ -141,6 +160,9 @@ Can also use
 [![Licence](https://img.shields.io/github/license/Ileriayo/markdown-badges?style=for-the-badge)](./LICENSE)
 
 -------------------------------------
+
+## Output
+Check out the Output site for the Project [Here](https://k-arthik-r.github.io/Portfolio/)
 
 ## Feedback
 If you have any feedback, please reach out to us at voidex.developer@gmail.com
