@@ -14,10 +14,13 @@
 ## Installations
 
 Installing Node Js and NPM:
-<a href='https://nodejs.org/en' alt='node js'
-   ><img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"></a> &nbsp;
-   
 
+Recommended : 18.16.0 LTS
+
+<a href="https://nodejs.org/en" alt="node js">
+        <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" /></a>
+        
+      
 ## Installing Dependencies
 
 Creating a React Template via Vite:
