@@ -59,6 +59,7 @@ Installing three:
 ```bash
 npm install --legacy-peer-deps three
 ```
+
 ## Other Requirments
 Creating and using a Service from Email.JS:
 
@@ -73,4 +74,5 @@ Outputs Required from the Services are:
 
 `PUBLIC_KEY`
 
-And Use the Above Three [Here](Contact.jsx)
+And Use the Above Three [Here](src/components/Contact.jsx)
+
