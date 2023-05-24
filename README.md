@@ -12,6 +12,10 @@
 
 -------------------------------------
 
+A 3D-Portfolio Designed Using Vite - React along with Tailwind CSS for Designs, Three JS for 3D-Models, Email JS for Mail Management and FramerMotions for Diffrent Animation.
+
+-------------------------------------
+
 ## Installations
 
 Installing Node Js and NPM:
