@@ -164,5 +164,14 @@ The Current Project is Built and deployed Using Github Pages on live: <br />
 ## Output
 Check out the Output site for the Project [Here](https://k-arthik-r.github.io/Portfolio/)
 
+-------------------------------------
+
+
+## Inspirations
+
+- [Adrian](https://github.com/adrianhajdin)
+
+--------------------------------------
+
 ## Feedback
 If you have any feedback, please reach out to us at voidex.developer@gmail.com
